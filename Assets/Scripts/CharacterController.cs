@@ -8,7 +8,7 @@ namespace BGJ2018
         [SerializeField]
         private float speed = 12f;
         [SerializeField]
-        private float rotationSpeed = 2f;
+        private float rotationSpeed = 100f;
         private float rotationDeadzone = 0.2f;
 
         private Rigidbody rb;
